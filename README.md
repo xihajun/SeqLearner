@@ -3,6 +3,8 @@ Learning Sequencing with Shamith @shamith-s
 # Materials
 
 ## RNA-seq
+### [RNA-seq & ChIP-seq (diagram)](https://github.com/xihajun/tool-learning/blob/master/STAR/diagram.png)
+
 ### Read Counting Methods
 - [Subread](http://subread.sourceforge.net/)
   - Tutorial: http://bioinf.wehi.edu.au/subread-package/SubreadUsersGuide.pdf
@@ -22,4 +24,3 @@ Learning Sequencing with Shamith @shamith-s
   - Materials for RNA-seq day of the Prostate Bioinformatics course at University of Oxford
 
 
-### [RNA-seq & ChIP-seq (diagram)](https://github.com/xihajun/tool-learning/blob/master/STAR/diagram.png)
