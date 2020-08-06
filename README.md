@@ -3,7 +3,7 @@ Learning Sequencing with Shamith @shamith-s
 # Materials
 
 ## RNA-seq
-![diagram](https://github.com/xihajun/tool-learning/blob/master/STAR/diagram.png?raw=true)
+![diagram](https://github.com/xihajun/tool-learning/blob/master/STAR/diagram.png)
 ### Read Counting Methods
 - [Subread](http://subread.sourceforge.net/)
   - Tutorial: http://bioinf.wehi.edu.au/subread-package/SubreadUsersGuide.pdf
