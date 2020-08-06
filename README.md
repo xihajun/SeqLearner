@@ -17,7 +17,7 @@ Learning Sequencing with Shamith @shamith-s
 
 ### DESeq2
 - [DESeq2 R tutorial](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
-- [Mark Dunning: Good tutorial](https://sbc.shef.ac.uk/prostate-bioinformatics/)
+- [RNA-seq day @Mark Dunning](https://sbc.shef.ac.uk/prostate-bioinformatics/)
   - Materials for RNA-seq day of the Prostate Bioinformatics course at University of Oxford
 
 
