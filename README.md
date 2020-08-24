@@ -1,10 +1,9 @@
 # SeqLearner
 Learning Sequencing with Shamith @shamith-s
 # Materials
+[RNA-seq & ChIP-seq (diagram)](https://github.com/xihajun/tool-learning/blob/master/STAR/diagram.png)
 
 ## RNA-seq
-### [RNA-seq & ChIP-seq (diagram)](https://github.com/xihajun/tool-learning/blob/master/STAR/diagram.png)
-
 ### Read Counting Methods
 - [Subread](http://subread.sourceforge.net/)
   - Tutorial: http://bioinf.wehi.edu.au/subread-package/SubreadUsersGuide.pdf
