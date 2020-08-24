@@ -24,3 +24,5 @@ Learning Sequencing with Shamith @shamith-s
   - Materials for RNA-seq day of the Prostate Bioinformatics course at University of Oxford
 
 
+## ChIP-seq (TODO: chip-seq update)
+We've just went through ChIP-seq last week. I have to make some notes to keep them in my mind.
